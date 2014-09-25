@@ -1,0 +1,13 @@
+HP Prime Diagnostic Mode
+
+To put the Prime in diagnostic mode, press F C O keys all at the same time 
+while doing a pin reset to back of the unit. It should display 
+the "EA656 DIAGNOSTIC" Screen Menu.
+
+HP Prime reset to factory settings - Press 4 (FLS Utility), and then 
+press 3 (Format Disk C). This clears out the flash. Once finished, press ESC to
+back out into the main menu. From there press 9 (RESET). It will reboot into 
+its factory condition and request language choice.
+
+Note: To do a quick minor factory reset. Press [Apps] and [Esc] key 
+simultaneously and holding it, and press the [On] key.
